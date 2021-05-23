@@ -1,0 +1,3 @@
+([('aStar',
+   '/Users/yadavrupeshmohanlal/Desktop/ML_practice/project_/aStar/dist/aStar',
+   'EXECUTABLE')],)
